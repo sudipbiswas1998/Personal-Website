@@ -14,3 +14,10 @@ h1{
 h3{
     color: #66BFBF;
 }
+
+/*Class Selector*/
+
+/* Hover is a sudoclass for css selector*/
+.link:hover{
+    color:gray;
+}
